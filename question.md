@@ -49,6 +49,13 @@ Ans. cp exit.txt logout.txt
 ### Q10. Create Week2 directory in OPS145 directory
 Ans. mkdir ~/OPS145/Week2 OR mkdir /home/(your username)/OPS145/Week2
 
-### Q11. 
+### Q11. Now write a single command to create a new directory "commands" which has all the files of Revision directory as shown below.
+<img width="339" alt="cp-recursive" src="https://github.com/pratham-garg-456/OPS145-SLG/assets/81003075/4110881e-530f-4014-bd44-a23c8ec5b74e">
+
+Ans. cp -r . ~/OPS145/Week2/commands
+
+### Q12. Go into Week3 directory and Write a single command to remove the Revision folder.
+
+
 
 
