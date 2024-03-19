@@ -4,6 +4,14 @@
 
 <img width="930" alt="image" src="https://github.com/pratham-garg-456/OPS145-SLG/assets/81003075/fc844471-91f8-48cc-9f49-077a5b98422c">
 
+1. We are learning regular expression this week.
+2. Regular expressions are used to search, edit and manupulate text. 
+3. This can represent text contained in a file like this one or within a pipeline command for example: 
+4. ls | grep ".txt" -> this command will display the text files in current directory.
+5. regular expressions are used with commands that matches patterns contained in text such as:
+6. grep, egrep, man, more, less, vi, sed and awk
+7. The problem with simple regular expression is that only simple patterns are matched which we have seen through this question.
+
 
 ### Q2. Which of them are complex regular expression symbols:
 
