@@ -20,7 +20,7 @@
 ### Q17.  Try to delete any of the files within the 'IWill' directory. 
 ### Q18. Give everyone the permission to only read the 'IWill' directory.
 ### Q19. Try to view the contents of the 'IWill' directory along with all the details.
-### Q20. Try to view the contents of the 'Patience' file using the 'cat' command.
+### Q20. Try to view the contents of the 'Patience' or (if you rename the file earlier use that name) file using the 'cat' command.
 ### Q21. Give everyone permission to only execute the 'IWill' directory.
 ### Q22. Try to view the contents of the 'IWill' directory.
 ### Q23. Try to view the permissions  (details) of the 'Persistence' file. 
